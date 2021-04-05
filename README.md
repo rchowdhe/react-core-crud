@@ -1,10 +1,19 @@
-# Getting Started with Create React App
+# Getting Started with Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+There are 3 Module for this project (Client app, Server app, Database).
 
-## Available Scripts
+## Client app Setup
+Clone/Download this Repo.
 
-In the project directory, you can run:
+Run command `npm install`.
+
+After successfull install, run command `npm start`
+
+For now Client app setup is done.
+
+## Server side app Setup
+
+Download/Clone API project from repo [http://localhost:3000](http://localhost:3000)
 
 ### `yarn start`
 
