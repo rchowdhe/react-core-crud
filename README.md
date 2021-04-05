@@ -13,7 +13,7 @@ For now Client app setup is done.
 
 ## Server side app Setup
 
-Download/Clone API project from repo [http://localhost:3000](http://localhost:3000)
+Download/Clone API project from repo [ReactCoreCRUD](https://github.com/rchowdhe/ReactCoreCRUD)
 
 Go to `appsettings.json` and open in Edit mode, Replace `DefaultConnection` value with your local database server.
 
